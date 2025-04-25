@@ -57,3 +57,8 @@ Motivated ECE student with a passion for VLSI and RTL design, seeking hands-on e
 - **LinkedIn:** [https://www.linkedin.com/in/obul-sai-922643251](https://www.linkedin.com/in/obul-sai-922643251) 🌐
 
 ---
+
+## 📄 CV
+
+You can view or download my CV from the following link:  
+[Thummala Obul Sai CV](https://github.com/obulsai/THUMMALA-OBUL-SAI/blob/680593f2484a2c9837832f9d651c2947cd6c07ce/Cv.pdf)
