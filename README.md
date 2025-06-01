@@ -1,5 +1,5 @@
 # 🌟 THUMMALA OBUL SAI  
-**3rd Year ECE Student | IIIT RGUKT RK Valley | Aspiring RTL Design & Verification Engineer**  
+**4th Year ECE Student | IIIT RGUKT RK Valley | Aspiring RTL Design & Verification Engineer**  
 
 Motivated ECE student with a passion for VLSI and RTL design, seeking hands-on experience in real-world projects to enhance digital design and FPGA skills.
 
